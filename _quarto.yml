@@ -1,14 +1,18 @@
 project:
   type: manuscript
 manuscript:
-  article: index.qmd
+  article: kart_tutorial.qmd
+  meca-bundle: kart_tutorial.zip
 format:
   html:
+    output-file: kart_tutorial.html
+    embed-resources: true
     comments:
       hypothesis: true
   docx: default
   jats: default
-  pdf-agu: default
+  pdf-agu:
+    output-file: kart_tutorial.pdf
 execute:
   freeze: true
 
