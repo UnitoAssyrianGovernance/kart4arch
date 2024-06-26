@@ -5,14 +5,12 @@ manuscript:
   meca-bundle: kart_tutorial.zip
 format:
   html:
-    output-file: kart_tutorial.html
     embed-resources: true
     comments:
       hypothesis: true
   docx: default
   jats: default
-  pdf-agu:
-    output-file: kart_tutorial.pdf
+  pdf-agu: default
 execute:
   freeze: true
 
