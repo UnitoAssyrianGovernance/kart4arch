@@ -12,11 +12,11 @@ This resource is also archived on Zenodo at: [https://zenodo.org/doi/10.5281/zen
 
 **Easiest solution**
 
-Open the html file located [here](/_manuscript/kart_tutorial.html).
+Download the html file located [here](/_manuscript/kart_tutorial.html) and open it with any browser.
 
 **Additional formats**
 
-In the `_manuscript` folder, open one of the _html_, _pdf_, or _docx_ file.
+Navigate to the `_manuscript` folder, and open one of the _html_, _pdf_, or _docx_ file.
 
 ## Build the entire website from scratch
 
