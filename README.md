@@ -12,7 +12,7 @@ This resource is also archived on Zenodo at: [https://zenodo.org/doi/10.5281/zen
 
 **Easiest solution**
 
-Download the html file located [here](/_manuscript/kart_tutorial.html) and open it with any browser.
+Download the `index.html` file located [here](/_manuscript/index.html) and open it with any browser.
 
 **Additional formats**
 
